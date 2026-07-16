@@ -5,7 +5,7 @@ from database.mongodb import(
     attendance_collection
 )
 
-st.title("attendance Management")
+st.title(":rainbow[attendance Management]")
 
 students = list(
     students_collection.find()
