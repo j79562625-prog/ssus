@@ -5,7 +5,7 @@ from database.mongodb import (
     bmi_collection
 )
 
-st.title("BMI Calculator")
+st.title(":rainbow[BMI Calculator]")
 
 # Load students
 students = list(
