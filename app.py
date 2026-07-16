@@ -5,7 +5,7 @@ st.set_page_config(
     layout="wide"
 )
 
-st.title("Smart Student Utility System")
+st.title(":rainbow[Smart Student Utility System]")
 
 st.write(
     "Student Management and Utility"
