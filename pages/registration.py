@@ -2,7 +2,7 @@ import streamlit as st
  
 from database.mongodb import students_collection 
 
-st.title("student registration")
+st.title(":rainbow[student registration]")
 
 First_name = st.text_input(
 
